@@ -39,10 +39,3 @@ Una vez ejecutado el proyecto, el usuario debe seguir estos pasos :
 3. **Ingreso de Información:** Se recomienda ingresar los formatos correctos según se solicite en pantalla.
 4. **Confirmación:** Una vez procesada la solicitud, el programa mostrará un mensaje de éxito o los resultados generados en pantalla.
 
-
-
-
-
-
-5. **Confirmación:** Una vez procesada la solicitud, el sistema mostrará un mensaje de éxito o los resultados generados en pantalla.
-6.
