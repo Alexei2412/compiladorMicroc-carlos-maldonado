@@ -1,13 +1,13 @@
 # Compilador MicroC
 
 ## 1. Portada
-* **Nombre completo:** [Carlos Alexei Maldonado Barrios]
-* **Número de carné:** [202425512]
+* **Nombre completo:** Carlos Alexei Maldonado Barrios
+* **Número de carné:** 202425512
 * **Curso:** Autómatas y Lenguajes
 * **Proyecto:** Compilador MicroC
 
 ## 2. Descripción del Proyecto
-CyberLex es la interfaz gráfica de un pre-compilador diseñado para el lenguaje MicroC. Permite la edición de código fuente con características modernas como resaltado de sintaxis, numeración de líneas automática y gestión segura de archivos (lectura/escritura).
+MicroC es la interfaz gráfica de un pre-compilador diseñado para el lenguaje MicroC. Permite la edición de código fuente con características modernas como resaltado de sintaxis, numeración de líneas automática y gestión segura de archivos (lectura/escritura).
 
 ## 3. Tecnologías Utilizadas
 * **Lenguaje:** Python 3
