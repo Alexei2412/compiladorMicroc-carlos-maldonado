@@ -37,5 +37,14 @@ Una vez ejecutado el proyecto, el usuario debe seguir estos pasos :
 1. **Inicio del Sistema:** Se desplegará el menú principal mostrando todas las opciones
 2. **Selección de Operación:**  El usuario debe ingresar el número o comando correspondiente a la acción que desea realizar.
 3. **Ingreso de Información:** Se recomienda ingresar los formatos correctos según se solicite en pantalla.
+
+   
+## 9. Corrccion de Errores ##
+El nuevo programa utilizable es precompilador1 ya que el anterior tiene un pequeño error. 
+Disculpen las molestias.
+
+
+
+
 4. **Confirmación:** Una vez procesada la solicitud, el programa mostrará un mensaje de éxito o los resultados generados en pantalla.
 
